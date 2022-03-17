@@ -1,10 +1,31 @@
 # Department_Store_Data_Analysis
 
 ### 백화점 구매 데이터 분석을 통한 지점별 판매 전략
+- [현대백화점 구매 데이터 분석을 통한 지점별 판매전략.pdf](https://github.com/Seri-Jung/Department_Store_Data_Analysis/files/8283902/default.pdf)
 - 실행 환경: R
 - 주관: 서울시, 하이서울기업협회
 - 데이터: 2000년도의 1년간 백화점에서 구매한 상품과 고객 데이터
 
-<img src="https://user-images.githubusercontent.com/69622147/158565037-79d717cb-dffa-4f59-8389-daddac309ed5.png" width="600" height="300"/>
+![image](https://user-images.githubusercontent.com/69622147/158790203-e618cb93-dfc9-4076-bf4a-bb1ccafaa3fb.png)
 
+- 보고서 흐름  
+  - 1. 데이터 분석 개요
+    - 1-1 데이터 분석의 배경 및 필요성
+    - 1-2 데이터 분석의 목표
+    - 1-3 국내외 시장현황
+    - 1-4 데이터 분석의 중요성
+  - 2. 데이터 탐색
+    - 2-1 데이터셋 준비
+    - 2-2 데이터 및 변수 설명
+    - 2-4 기술 통계
+    - 2-5 데이터 가공
+    - 2-6 데이터 분할
+  - 3. 데이터 분석 가설
+    - 3-1 분석 가설 설정
+  - 4. 데이터 분석
+    - 4-1 매출 분석
+    - 4-2 만족도 분석
+  - 5. 결론
+    - 5-1 분석 결과
+    - 5-2 지점별 전략 제안
 
